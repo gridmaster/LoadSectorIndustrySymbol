@@ -1,0 +1,1061 @@
+Industry: Agricultural Chemicals
+1: IC Potash Corp: An item with the same key has already been added.
+2: Insecticides (India) Ltd: An item with the same key has already been added.
+3: Yongye International, Inc.: An item with the same key has already been added.
+
+
+Industry: Aluminum
+
+
+Industry: Chemicals - Major Diversified
+
+
+Industry: Copper
+
+
+Industry: Gold
+1: Cleantech Transit, Inc.: An item with the same key has already been added.
+2: Gold Reserve Inc: An item with the same key has already been added.
+3: Goldland Holdings Co.: An item with the same key has already been added.
+4: Lone Star Gold, Inc.: An item with the same key has already been added.
+5: Patriot Gold Corp.: An item with the same key has already been added.
+6: PC Gold Inc: An item with the same key has already been added.
+7: Royal Standard Minerals Inc.: An item with the same key has already been added.
+8: Timmins Gold Corp: An item with the same key has already been added.
+
+
+Industry: Independent Oil & Gas
+1: Antrim Energy Inc: An item with the same key has already been added.
+2: ATP Oil & Gas Corp.: An item with the same key has already been added.
+3: Black River Petroleum Corp.: An item with the same key has already been added.
+4: Blue Water Petroleum Corp.: An item with the same key has already been added.
+5: Bravo Enterprises Ltd.: An item with the same key has already been added.
+6: Eos Petro, Inc.: An item with the same key has already been added.
+7: ERHC Energy Inc.: An item with the same key has already been added.
+8: Hydrocarb Energy Corporation: An item with the same key has already been added.
+9: Ithaca Energy Inc: An item with the same key has already been added.
+10: North Springs Resources Corp: An item with the same key has already been added.
+11: Petron Energy II Inc.: An item with the same key has already been added.
+12: Petron Energy II Inc.: An item with the same key has already been added.
+13: Rio Bravo Oil, Inc.: An item with the same key has already been added.
+14: Santa Fe Petroleum, Inc.: An item with the same key has already been added.
+15: TexStar Oil Corp.: An item with the same key has already been added.
+
+
+Industry: Industrial Metals & Minerals
+1: America West Resources, Inc.: An item with the same key has already been added.
+2: American Graphite Technologies: An item with the same key has already been added.
+3: American Sierra Gold Corp.: An item with the same key has already been added.
+4: Baja Mining Corp: An item with the same key has already been added.
+5: Bergio International, Inc.: An item with the same key has already been added.
+6: Cassidy Ventures Inc.: An item with the same key has already been added.
+7: Centaurus Diamond Technologies: An item with the same key has already been added.
+8: Dolat Ventures, Inc.: An item with the same key has already been added.
+9: Eastern Resources, Inc.: An item with the same key has already been added.
+10: eBullion, Inc.: An item with the same key has already been added.
+11: Excelsior Gold & Metals, Inc.: An item with the same key has already been added.
+12: Georgetown Corporation: An item with the same key has already been added.
+13: Georgetown Corporation: An item with the same key has already been added.
+14: Gold Dynamics Corp.: An item with the same key has already been added.
+15: Gold Hill Resources, Inc.: An item with the same key has already been added.
+16: JPX Global, Inc.: An item with the same key has already been added.
+17: Liberty Gold Corp: An item with the same key has already been added.
+18: Maxwell Resources, Inc.: An item with the same key has already been added.
+19: Monarchy Resources, Inc.: An item with the same key has already been added.
+20: Mustang Alliances, Inc.: An item with the same key has already been added.
+21: Oraco Resources, Inc.: An item with the same key has already been added.
+22: Redzone Resources Ltd: An item with the same key has already been added.
+23: Resolute Oncology Inc.: An item with the same key has already been added.
+24: Siga Resources, Inc.: An item with the same key has already been added.
+25: Thundermin Resources: An item with the same key has already been added.
+26: U3O8 Corp: An item with the same key has already been added.
+27: Unionmet (Singapore) Ltd: An item with the same key has already been added.
+
+
+Industry: Major Integrated Oil & Gas
+1: Sasol Ltd.: An item with the same key has already been added.
+
+
+Industry: Nonmetallic Mineral Mining
+1: Colombia Energy Resources, Inc: An item with the same key has already been added.
+2: LKA Gold Incorporated: An item with the same key has already been added.
+3: US China Mining Group Inc.: An item with the same key has already been added.
+
+
+Industry: Oil & Gas Drilling & Exploration
+1: Providence Resources, Inc.: An item with the same key has already been added.
+2: Rangeford Resources, Inc.: An item with the same key has already been added.
+3: Siberian Energy Group, Inc.: An item with the same key has already been added.
+
+
+Industry: Oil & Gas Equipment & Services
+1: Deep Down, Inc.: An item with the same key has already been added.
+
+
+Industry: Oil & Gas Pipelines
+
+
+Industry: Oil & Gas Refining & Marketing
+1: Elite Data Services Inc.: An item with the same key has already been added.
+2: Elite Data Services Inc.: An item with the same key has already been added.
+3: GeoBio Energy, Inc.: An item with the same key has already been added.
+4: New America Energy Corp.: An item with the same key has already been added.
+
+
+Industry: Silver
+
+
+Industry: Specialty Chemicals
+1: CalciTech Ltd.: An item with the same key has already been added.
+2: ESP Resources, Inc.: An item with the same key has already been added.
+3: Vinyl Chemicals (India) Ltd: An item with the same key has already been added.
+
+
+Industry: Steel & Iron
+1: Man Industries (India) Ltd: An item with the same key has already been added.
+
+
+Industry: Synthetics
+
+
+Industry: Conglomerates
+1: Alliance Media Group Holdings,: An item with the same key has already been added.
+2: Azure Holding Group Corp.: An item with the same key has already been added.
+3: DLD Group, Inc.: An item with the same key has already been added.
+4: DMH International, Inc.: An item with the same key has already been added.
+5: Ensurge Inc.: An item with the same key has already been added.
+6: Harbor Island Development Corp: An item with the same key has already been added.
+7: HBP Energy Corp.: An item with the same key has already been added.
+8: HK Battery Technology Inc.: An item with the same key has already been added.
+9: Hybrid Coating Technologies, I: An item with the same key has already been added.
+10: IFAN Financial, Inc.: An item with the same key has already been added.
+11: IFAN Financial, Inc.: An item with the same key has already been added.
+12: Imogo Mobile Technologies Corp: An item with the same key has already been added.
+13: Journal Of Radiology, Inc.: An item with the same key has already been added.
+14: LightTouch Vein & Laser, Inc.: An item with the same key has already been added.
+15: Modern Mobility Aids, Inc.: An item with the same key has already been added.
+16: Olie Inc.: An item with the same key has already been added.
+17: Oro East Mining, Inc.: An item with the same key has already been added.
+18: Progressive Green Solutions, I: An item with the same key has already been added.
+19: Rightscorp, Inc.: An item with the same key has already been added.
+20: Ultimate Rack, Inc.: An item with the same key has already been added.
+21: Umax Group Corp.: An item with the same key has already been added.
+22: Unwall International Inc.: An item with the same key has already been added.
+23: USA Zhimingde International Gr: An item with the same key has already been added.
+
+
+Industry: Appliances
+
+
+Industry: Auto Manufacturers - Major
+
+
+Industry: Auto Parts
+1: Autolite (India) Ltd: An item with the same key has already been added.
+2: Gentherm Incorporated: An item with the same key has already been added.
+3: Marketing Worldwide Corp: An item with the same key has already been added.
+4: Quantum Fuel Systems Technolog: An item with the same key has already been added.
+5: Rane (Madras) Ltd: An item with the same key has already been added.
+
+
+Industry: Beverages - Brewers
+
+
+Industry: Beverages - Soft Drinks
+1: Attitude Drinks Incorporated: An item with the same key has already been added.
+2: NOHO, Inc.: An item with the same key has already been added.
+
+
+Industry: Beverages - Wineries & Distillers
+
+
+Industry: Business Equipment
+
+
+Industry: Cigarettes
+
+
+Industry: Cleaning Products
+
+
+Industry: Confectioners
+1: Active Health Foods, Inc.: An item with the same key has already been added.
+2: Mondelez International, Inc.: An item with the same key has already been added.
+3: Ponni Sugars (Erode) Ltd: An item with the same key has already been added.
+
+
+Industry: Dairy Products
+
+
+Industry: Electronic Equipment
+1: AuraSound, Inc.: An item with the same key has already been added.
+
+
+Industry: Farm Products
+1: China Liaoning Dingxu Ecologic: An item with the same key has already been added.
+2: Patriot Berry Farms, Inc.: An item with the same key has already been added.
+3: Rainbow Coral Corp.: An item with the same key has already been added.
+
+
+Industry: Food - Major Diversified
+1: Cono Italiano, Inc.: An item with the same key has already been added.
+2: Kraft Foods Group, Inc.: An item with the same key has already been added.
+3: MamaMancini's Holdings, Inc.: An item with the same key has already been added.
+4: Tingyi (Cayman Islands) H: An item with the same key has already been added.
+
+
+Industry: Home Furnishings & Fixtures
+1: Vu1 Corporation.: An item with the same key has already been added.
+
+
+Industry: Housewares & Accessories
+
+
+Industry: Meat Products
+1: Sen Yu International Holdings,: An item with the same key has already been added.
+
+
+Industry: Office Supplies
+
+
+Industry: Packaging & Containers
+1: Ehouse Global, Inc.: An item with the same key has already been added.
+
+
+Industry: Paper & Paper Products
+
+
+Industry: Personal Products
+1: BOLDFACE Group, Inc.: An item with the same key has already been added.
+2: BOLDFACE Group, Inc.: An item with the same key has already been added.
+3: Colgate-Palmolive (India) Ltd: An item with the same key has already been added.
+4: Davi Luxury Brand Group, Inc.: An item with the same key has already been added.
+5: The Radiant Creations Group, I: An item with the same key has already been added.
+
+
+Industry: Photographic Equipment & Supplies
+1: Experience Art and Design, Inc: An item with the same key has already been added.
+
+
+Industry: Processed & Packaged Goods
+1: Nuzee, Inc.: An item with the same key has already been added.
+
+
+Industry: Recreational Goods, Other
+1: Atlas Cycles (Haryana) Ltd: An item with the same key has already been added.
+
+
+Industry: Recreational Vehicles
+1: Prairie West Oil & Gas, Ltd.: An item with the same key has already been added.
+
+
+Industry: Rubber & Plastics
+1: NaturalNano, Inc.: An item with the same key has already been added.
+2: Styrolution ABS (India) Ltd: An item with the same key has already been added.
+
+
+Industry: Sporting Goods
+
+
+Industry: Textile - Apparel Clothing
+1: Horiyoshi Worldwide Inc.: An item with the same key has already been added.
+2: Provogue (India) Ltd.: An item with the same key has already been added.
+3: Sequential Brands Group, Inc.: An item with the same key has already been added.
+
+
+Industry: Textile - Apparel Footwear & Accessories
+
+
+Industry: Tobacco Products, Other
+
+
+Industry: Toys & Games
+
+
+Industry: Trucks & Other Vehicles
+1: Balqon Corporation: An item with the same key has already been added.
+
+
+Industry: Accident & Health Insurance
+
+
+Industry: Asset Management
+1: CIFC Corp.: An item with the same key has already been added.
+2: Harvest Capital Credit Corpora: An item with the same key has already been added.
+3: Merriman Holdings, Inc.: An item with the same key has already been added.
+4: Q Lotus Holdings, Inc.: An item with the same key has already been added.
+
+
+Industry: Closed-End Fund - Debt
+
+
+Industry: Closed-End Fund - Equity
+
+
+Industry: Closed-End Fund - Foreign
+
+
+Industry: Credit Services
+1: AgriVest Americas, Inc: An item with the same key has already been added.
+2: Sparta Commercial Services Inc: An item with the same key has already been added.
+
+
+Industry: Diversified Investments
+1: Cytta Corp.: An item with the same key has already been added.
+2: Kabe Exploration Inc.: An item with the same key has already been added.
+3: MicroSmart Devices, Inc.: An item with the same key has already been added.
+4: Webtradex International Corpor: An item with the same key has already been added.
+5: Wild Craze, Inc.: An item with the same key has already been added.
+
+
+Industry: Foreign Money Center Banks
+
+
+Industry: Foreign Regional Banks
+
+
+Industry: Insurance Brokers
+
+
+Industry: Investment Brokerage - National
+1: Global Arena Holding, Inc.: An item with the same key has already been added.
+
+
+Industry: Investment Brokerage - Regional
+1: National Holdings Corporation: An item with the same key has already been added.
+
+
+Industry: Life Insurance
+
+
+Industry: Money Center Banks
+1: Commercial Bank of Qatar (The): An item with the same key has already been added.
+2: Comml Intl Bank (Egypt): An item with the same key has already been added.
+
+
+Industry: Mortgage Investment
+1: American First Financial Inc.: An item with the same key has already been added.
+2: Harrison Vickers & Waterman In: An item with the same key has already been added.
+
+
+Industry: Property & Casualty Insurance
+
+
+Industry: Property Management
+1: Real Estate Contacts, Inc.: An item with the same key has already been added.
+2: Royal Energy Resources, Inc.: An item with the same key has already been added.
+3: Royal Energy Resources, Inc.: An item with the same key has already been added.
+
+
+Industry: Real Estate Development
+
+
+Industry: Regional - Mid-Atlantic Banks
+1: Hampton Roads Bankshares Inc.: An item with the same key has already been added.
+2: Millennium Bankshares Corporat: An item with the same key has already been added.
+3: OptimumBank Holdings Inc.: An item with the same key has already been added.
+4: United Community Banks, Inc.: An item with the same key has already been added.
+
+
+Industry: Regional - Midwest Banks
+1: Ben Franklin Financial Inc.: An item with the same key has already been added.
+2: DSA Financial Corp.: An item with the same key has already been added.
+3: Independent Bank Corporation: An item with the same key has already been added.
+4: Sugar Creek Financial Corp.: An item with the same key has already been added.
+
+
+Industry: Regional - Northeast Banks
+1: Ocean Shore Holding Co.: An item with the same key has already been added.
+
+
+Industry: Regional - Pacific Banks
+1: Cascade Bancorp: An item with the same key has already been added.
+2: Hanmi Financial Corporation: An item with the same key has already been added.
+3: Preferred Bank: An item with the same key has already been added.
+
+
+Industry: Regional - Southeast Banks
+1: Community First Bancorp.: An item with the same key has already been added.
+2: Manasota Group, Inc.: An item with the same key has already been added.
+3: Minden Bancorp Inc.: An item with the same key has already been added.
+
+
+Industry: Regional - Southwest Banks
+
+
+Industry: REIT - Diversified
+1: Gaming and Leisure Properties,: An item with the same key has already been added.
+2: Mucklow (A & J) Group PLC: An item with the same key has already been added.
+
+
+Industry: REIT - Healthcare Facilities
+1: Sabra Health Care REIT, Inc.: An item with the same key has already been added.
+
+
+Industry: REIT - Hotel/Motel
+1: Sotherly Hotels Inc.: An item with the same key has already been added.
+
+
+Industry: REIT - Industrial
+
+
+Industry: REIT - Office
+
+
+Industry: REIT - Residential
+1: Reven Housing REIT, Inc.: An item with the same key has already been added.
+
+
+Industry: REIT - Retail
+1: Local Shopping REIT (The) PLC: An item with the same key has already been added.
+
+
+Industry: Savings & Loans
+1: Capitol Federal Financial, Inc: An item with the same key has already been added.
+2: First Security Group, Inc.: An item with the same key has already been added.
+3: Foundation Bancorp, Inc.: An item with the same key has already been added.
+4: Georgetown Bancorp Inc.: An item with the same key has already been added.
+5: Home Federal Bancorp, Inc. of: An item with the same key has already been added.
+6: Jacksonville Bancorp Inc.: An item with the same key has already been added.
+7: Laporte Bancorp, Inc.: An item with the same key has already been added.
+8: Naugatuck Valley Financial Cor: An item with the same key has already been added.
+9: SI Financial Group Inc.: An item with the same key has already been added.
+
+
+Industry: Surety & Title Insurance
+
+
+Industry: Biotechnology
+1: Advaxis, Inc.: An item with the same key has already been added.
+2: Aerocast Inc.: An item with the same key has already been added.
+3: Agenus Inc.: An item with the same key has already been added.
+4: Alseres Pharmaceuticals, Inc.: An item with the same key has already been added.
+5: Andain, Inc.: An item with the same key has already been added.
+6: Arrowhead Research Corp.: An item with the same key has already been added.
+7: Brainstorm Cell Therapeutics I: An item with the same key has already been added.
+8: Conatus Pharmaceuticals Inc.: An item with the same key has already been added.
+9: Discovery Laboratories Inc.: An item with the same key has already been added.
+10: Epizyme, Inc.: An item with the same key has already been added.
+11: GeneThera Inc.: An item with the same key has already been added.
+12: Genufood Energy Enzymes Corpor: An item with the same key has already been added.
+13: GenVec, Inc.: An item with the same key has already been added.
+14: ImmunoClin Corporation: An item with the same key has already been added.
+15: Insmed Incorporated: An item with the same key has already been added.
+16: La Jolla Pharmaceutical Co.: An item with the same key has already been added.
+17: Lpath Inc.: An item with the same key has already been added.
+18: Marina Biotech, Inc.: An item with the same key has already been added.
+19: Neptune Technologies: An item with the same key has already been added.
+20: Ohr Pharmaceutical, Inc.: An item with the same key has already been added.
+21: Omni Bio Pharmaceutical, Inc.: An item with the same key has already been added.
+22: OncoSec Medical Incorporated: An item with the same key has already been added.
+23: Plandai Biotechnology, Inc.: An item with the same key has already been added.
+24: PolyMedix, Inc.: An item with the same key has already been added.
+25: PolyMedix, Inc.: An item with the same key has already been added.
+26: PolyMedix, Inc.: An item with the same key has already been added.
+27: Poniard Pharmaceuticals, Inc.: An item with the same key has already been added.
+28: Regulus Therapeutics Inc.: An item with the same key has already been added.
+29: Repros Therapeutics Inc.: An item with the same key has already been added.
+30: StemCells Inc.: An item with the same key has already been added.
+31: TapImmune, Inc.: An item with the same key has already been added.
+32: Titan Pharmaceuticals Inc.: An item with the same key has already been added.
+
+
+Industry: Diagnostic Substances
+1: Chembio Diagnostics, Inc.: An item with the same key has already been added.
+2: SecureAlert, Inc: An item with the same key has already been added.
+
+
+Industry: Drug Delivery
+
+
+Industry: Drug Manufacturers - Major
+1: Kilitch Drugs (India) Ltd: An item with the same key has already been added.
+2: NanoViricides, Inc.: An item with the same key has already been added.
+3: Neutra Corp.: An item with the same key has already been added.
+4: Neutra Corp.: An item with the same key has already been added.
+5: TheraBiogen Inc.: An item with the same key has already been added.
+6: Tongli Pharmaceuticals (USA),: An item with the same key has already been added.
+7: Tonix Pharmaceuticals Holding: An item with the same key has already been added.
+
+
+Industry: Drug Manufacturers - Other
+1: NeurogesX, Inc.: An item with the same key has already been added.
+2: Protalex Inc.: An item with the same key has already been added.
+3: Puramed Bioscience Inc: An item with the same key has already been added.
+4: Synergy Pharmaceuticals, Inc.: An item with the same key has already been added.
+
+
+Industry: Drug Related Products
+1: Imagenetix Inc.: An item with the same key has already been added.
+
+
+Industry: Drugs - Generic
+1: Parenteral Drugs (India) Ltd: An item with the same key has already been added.
+2: Vansen Pharma Inc.: An item with the same key has already been added.
+
+
+Industry: Health Care Plans
+1: Phyhealth Corp.: An item with the same key has already been added.
+
+
+Industry: Home Health Care
+
+
+Industry: Hospitals
+
+
+Industry: Long-Term Care Facilities
+1: Life Care Medical Devices Limi: An item with the same key has already been added.
+
+
+Industry: Medical Appliances & Equipment
+1: Cambridge Heart Inc.: An item with the same key has already been added.
+2: Capital Group Holdings, Inc.: An item with the same key has already been added.
+3: CareView Communications, Inc.: An item with the same key has already been added.
+4: Opto Circuits (India) Ltd: An item with the same key has already been added.
+5: Titan Medical Inc: An item with the same key has already been added.
+
+
+Industry: Medical Instruments & Supplies
+1: NeuroMetrix Inc.: An item with the same key has already been added.
+2: TransEnterix, Inc.: An item with the same key has already been added.
+
+
+Industry: Medical Laboratories & Research
+1: Cytosorbents Corporation: An item with the same key has already been added.
+2: Cytosorbents Corporation: An item with the same key has already been added.
+3: Medite Cancer Diagnostics, Inc: An item with the same key has already been added.
+4: Micro Imaging Technology, Inc.: An item with the same key has already been added.
+
+
+Industry: Medical Practitioners
+1: Lifestyle Medical Network Inc.: An item with the same key has already been added.
+
+
+Industry: Specialized Health Services
+1: Catasys, Inc.: An item with the same key has already been added.
+
+
+Industry: Aerospace/Defense - Major Diversified
+
+
+Industry: Aerospace/Defense Products & Services
+1: TAT Technologies, Ltd.: An item with the same key has already been added.
+
+
+Industry: Cement
+1: Monarch Cement Co.: An item with the same key has already been added.
+
+
+Industry: Diversified Machinery
+1: Cleantech Solutions Internatio: An item with the same key has already been added.
+2: Ecosphere Technologies, Inc.: An item with the same key has already been added.
+3: ECOtality, Inc.: An item with the same key has already been added.
+4: Ingersoll Rand (India) Ltd: An item with the same key has already been added.
+5: Reko International Group: An item with the same key has already been added.
+6: Xebec Adsorption Inc: An item with the same key has already been added.
+
+
+Industry: Farm & Construction Machinery
+1: Cervus Equipment Corp: An item with the same key has already been added.
+2: Terra Tech Corp.: An item with the same key has already been added.
+3: Wowjoint Holdings Limited: An item with the same key has already been added.
+
+
+Industry: General Building Materials
+1: Axion International Holdings,: An item with the same key has already been added.
+2: Nano Labs Corp.: An item with the same key has already been added.
+
+
+Industry: General Contractors
+1: Cosco Corp (Singapore) Ltd: An item with the same key has already been added.
+2: JMC Projects (india) Ltd: An item with the same key has already been added.
+
+
+Industry: Heavy Construction
+
+
+Industry: Industrial Electrical Equipment
+1: Exide Technologies: An item with the same key has already been added.
+
+
+Industry: Industrial Equipment & Components
+
+
+Industry: Lumber, Wood Production
+1: Century Plyboards (India) Ltd: An item with the same key has already been added.
+2: Conifex Timber Inc: An item with the same key has already been added.
+
+
+Industry: Machine Tools & Accessories
+1: Wendt (India) Ltd: An item with the same key has already been added.
+
+
+Industry: Manufactured Housing
+
+
+Industry: Metal Fabrication
+1: Braime (T F & J H): An item with the same key has already been added.
+2: Cymat Tech: An item with the same key has already been added.
+3: TechPrecision Corporation: An item with the same key has already been added.
+4: Zenith Birla (India) Ltd: An item with the same key has already been added.
+
+
+Industry: Pollution & Treatment Controls
+1: T5 Corp.: An item with the same key has already been added.
+
+
+Industry: Residential Construction
+1: Inspired Builders, Inc.: An item with the same key has already been added.
+2: White Smile Global, Inc.: An item with the same key has already been added.
+
+
+Industry: Small Tools & Accessories
+1: Aerogrow International, Inc.: An item with the same key has already been added.
+
+
+Industry: Textile Industrial
+1: Birla Cotsyn (India) Ltd: An item with the same key has already been added.
+2: Interface Inc.: An item with the same key has already been added.
+3: Puget Technologies,Inc: An item with the same key has already been added.
+4: Sangam (India) Ltd: An item with the same key has already been added.
+
+
+Industry: Waste Management
+1: MedClean Technologies, Inc: An item with the same key has already been added.
+2: MedClean Technologies, Inc: An item with the same key has already been added.
+3: Todays Alternative Energy Corp: An item with the same key has already been added.
+4: Tree Top Industries, Inc.: An item with the same key has already been added.
+5: Tree Top Industries, Inc.: An item with the same key has already been added.
+
+
+Industry: Advertising Agencies
+1: New Media Insight Group, Inc.: An item with the same key has already been added.
+2: rVue Holdings, Inc.: An item with the same key has already been added.
+3: Xhibit Corp.: An item with the same key has already been added.
+
+
+Industry: Air Delivery & Freight Services
+1: Sino-Global Shipping America,: An item with the same key has already been added.
+
+
+Industry: Air Services, Other
+
+
+Industry: Apparel Stores
+1: Reitmans (Canada) Ltd: An item with the same key has already been added.
+
+
+Industry: Auto Dealerships
+1: EVCARCO, Inc.: An item with the same key has already been added.
+
+
+Industry: Auto Parts Stores
+
+
+Industry: Auto Parts Wholesale
+
+
+Industry: Basic Materials Wholesale
+
+
+Industry: Broadcasting - Radio
+1: Spanish Broadcasting System In: An item with the same key has already been added.
+
+
+Industry: Broadcasting - TV
+
+
+Industry: Building Materials Wholesale
+
+
+Industry: Business Services
+1: Atkins (WS) PLC: An item with the same key has already been added.
+2: Debt Resolve, Inc.: An item with the same key has already been added.
+3: Discount Coupons Corporation: An item with the same key has already been added.
+4: Dynastar Holdings, Inc.: An item with the same key has already been added.
+5: Excel Corp.: An item with the same key has already been added.
+6: Hotel Outsource Management Int: An item with the same key has already been added.
+7: Innovative Product Opportuniti: An item with the same key has already been added.
+8: Marathon Patent Group, Inc.: An item with the same key has already been added.
+9: Myriad Interactive Media, Inc.: An item with the same key has already been added.
+10: Paid Inc.: An item with the same key has already been added.
+11: Performant Financial Corporati: An item with the same key has already been added.
+12: Silverton Adventures, Inc.: An item with the same key has already been added.
+13: XR Energy, Inc.: An item with the same key has already been added.
+14: Zevotek, Inc.: An item with the same key has already been added.
+
+
+Industry: Catalog & Mail Order Houses
+1: Liberty Interactive Corporatio: An item with the same key has already been added.
+
+
+Industry: CATV Systems
+
+
+Industry: Computers Wholesale
+
+
+Industry: Consumer Services
+
+
+Industry: Department Stores
+1: Ashley (Laura) Holdings PLC: An item with the same key has already been added.
+
+
+Industry: Discount, Variety Stores
+1: ALCO Stores, Inc.: An item with the same key has already been added.
+
+
+Industry: Drug Stores
+1: Progressive Care, Inc.: An item with the same key has already been added.
+
+
+Industry: Drugs Wholesale
+
+
+Industry: Education & Training Services
+1: Aspen Group, Inc.: An item with the same key has already been added.
+2: Wonder International Education: An item with the same key has already been added.
+
+
+Industry: Electronics Stores
+
+
+Industry: Electronics Wholesale
+1: Westinghouse Solar, Inc.: An item with the same key has already been added.
+
+
+Industry: Entertainment - Diversified
+1: Delta Entertainment Group, Inc: An item with the same key has already been added.
+2: Dial Global, Inc.: An item with the same key has already been added.
+3: Digital Domain Media Group, In: An item with the same key has already been added.
+4: Red Giant Entertainment, Inc.: An item with the same key has already been added.
+5: Starstream Entertainment, Inc.: An item with the same key has already been added.
+
+
+Industry: Food Wholesale
+1: Innovative Food Holdings, Inc.: An item with the same key has already been added.
+
+
+Industry: Gaming Activities
+1: Rank Group (The) PLC: An item with the same key has already been added.
+
+
+Industry: General Entertainment
+
+
+Industry: Grocery Stores
+1: Morrison (Wm) Supermarkets PLC: An item with the same key has already been added.
+2: Sainsbury (J) PLC: An item with the same key has already been added.
+
+
+Industry: Home Furnishing Stores
+1: TBSS International, Inc.: An item with the same key has already been added.
+
+
+Industry: Home Improvement Stores
+1: Greenhouse Solutions Inc.: An item with the same key has already been added.
+
+
+Industry: Industrial Equipment Wholesale
+
+
+Industry: Jewelry Stores
+1: Classic Diamonds (India) Ltd: An item with the same key has already been added.
+2: Nuvel Holdings, Inc.: An item with the same key has already been added.
+
+
+Industry: Lodging
+1: Asian Hotels (East) Ltd: An item with the same key has already been added.
+2: Asian Hotels (West) Ltd: An item with the same key has already been added.
+3: Belmond Ltd.: An item with the same key has already been added.
+4: Expedia Inc.: An item with the same key has already been added.
+
+
+Industry: Major Airlines
+1: Jet Airways (India) Ltd: An item with the same key has already been added.
+
+
+Industry: Management Services
+1: China Education International,: An item with the same key has already been added.
+2: Thomas Group, Inc.: An item with the same key has already been added.
+3: Wilhelmina International, Inc.: An item with the same key has already been added.
+
+
+Industry: Marketing Services
+1: Premier Brands Inc.: An item with the same key has already been added.
+2: The Graystone Company, Inc.: An item with the same key has already been added.
+3: VizConnect, Inc.: An item with the same key has already been added.
+
+
+Industry: Medical Equipment Wholesale
+
+
+Industry: Movie Production, Theaters
+
+
+Industry: Music & Video Stores
+1: Genius Brands International, I: An item with the same key has already been added.
+
+
+Industry: Personal Services
+1: Aristocrat Group Corp.: An item with the same key has already been added.
+
+
+Industry: Publishing - Books
+
+
+Industry: Publishing - Newspapers
+
+
+Industry: Publishing - Periodicals
+
+
+Industry: Railroads
+1: Go-Ahead Group (The) PLC: An item with the same key has already been added.
+2: Intelligent Highway Solutions,: An item with the same key has already been added.
+
+
+Industry: Regional Airlines
+1: Baltia Air Lines Inc.: An item with the same key has already been added.
+
+
+Industry: Rental & Leasing Services
+
+
+Industry: Research Services
+
+
+Industry: Resorts & Casinos
+1: Empire Resorts Inc.: An item with the same key has already been added.
+
+
+Industry: Restaurants
+1: Blue Water Global Group, Inc.: An item with the same key has already been added.
+2: Giggles N' Hugs, Inc.: An item with the same key has already been added.
+3: Good Times Restaurants Inc.: An item with the same key has already been added.
+
+
+Industry: Security & Protection Services
+
+
+Industry: Shipping
+1: Diana Containerships Inc.: An item with the same key has already been added.
+2: Evergreen Marine (Taiwan): An item with the same key has already been added.
+3: FreeSeas Inc.: An item with the same key has already been added.
+4: Mercator Lines (Singapore) Ltd: An item with the same key has already been added.
+5: Seanergy Maritime Holdings Cor: An item with the same key has already been added.
+6: Top Ships Inc.: An item with the same key has already been added.
+
+
+Industry: Specialty Eateries
+
+
+Industry: Specialty Retail, Other
+1: Etsy, Inc.: An item with the same key has already been added.
+2: Health Advance Inc.: An item with the same key has already been added.
+
+
+Industry: Sporting Activities
+
+
+Industry: Sporting Goods Stores
+1: Smack Sportswear, Inc.: An item with the same key has already been added.
+
+
+Industry: Staffing & Outsourcing Services
+1: Corporate Resource Services, I: An item with the same key has already been added.
+
+
+Industry: Technical Services
+1: Texas Gulf Energy, Incorporate: An item with the same key has already been added.
+
+
+Industry: Toy & Hobby Stores
+
+
+Industry: Trucking
+1: Integrated Freight Corporation: An item with the same key has already been added.
+2: YRC Worldwide Inc.: An item with the same key has already been added.
+
+
+Industry: Wholesale, Other
+
+
+Industry: Application Software
+1: B Green Innovations, Inc.: An item with the same key has already been added.
+2: Cardiff International Inc.: An item with the same key has already been added.
+3: Dolphin Digital Media, Inc.: An item with the same key has already been added.
+4: GBS Enterprises Incorporated: An item with the same key has already been added.
+5: Intellinetics, Inc.: An item with the same key has already been added.
+6: Pulse Evolution Corporation: An item with the same key has already been added.
+7: SilverSun Technologies, Inc.: An item with the same key has already been added.
+8: X-Factor Communications Holdin: An item with the same key has already been added.
+
+
+Industry: Business Software & Services
+1: Asure Software, Inc.: An item with the same key has already been added.
+2: US Dataworks Inc.: An item with the same key has already been added.
+
+
+Industry: Communication Equipment
+1: Powerwave Technologies Inc.: An item with the same key has already been added.
+2: 3D Icon Corporation: An item with the same key has already been added.
+
+
+Industry: Computer Based Systems
+
+
+Industry: Computer Peripherals
+
+
+Industry: Data Storage Devices
+1: Alanco Technologies Inc.: An item with the same key has already been added.
+
+
+Industry: Diversified Communication Services
+1: Worldwide Strategies Inc.: An item with the same key has already been added.
+
+
+Industry: Diversified Computer Systems
+
+
+Industry: Diversified Electronics
+1: GreenCell, Inc.: An item with the same key has already been added.
+2: W S Industries (I) Ltd: An item with the same key has already been added.
+
+
+Industry: Healthcare Information Services
+
+
+Industry: Internet Information Providers
+1: Alpha Network Alliance Venture: An item with the same key has already been added.
+2: Atrinsic, Inc.: An item with the same key has already been added.
+3: Game Plan Holdings, Inc.: An item with the same key has already been added.
+4: Twitter, Inc.: An item with the same key has already been added.
+5: Info Edge (India) Ltd: An item with the same key has already been added.
+
+
+Industry: Internet Service Providers
+1: AmeriCann, Inc.: An item with the same key has already been added.
+2: IZEA, Inc: An item with the same key has already been added.
+3: SMTP, Inc.: An item with the same key has already been added.
+
+
+Industry: Internet Software & Services
+1: Jacada Ltd.: An item with the same key has already been added.
+2: Jacada Ltd.: An item with the same key has already been added.
+3: Mobilized Entertainment, Inc: An item with the same key has already been added.
+4: SNAP Interactive, Inc.: An item with the same key has already been added.
+5: Ubiquity, Inc.: An item with the same key has already been added.
+6: Worlds Online Inc.: An item with the same key has already been added.
+
+
+Industry: Long Distance Carriers
+
+
+Industry: Multimedia & Graphics Software
+1: DQ Entertainment (Intl): An item with the same key has already been added.
+2: Greenfield Farms Food, Inc.: An item with the same key has already been added.
+3: Kongzhong Corp.: An item with the same key has already been added.
+4: Monster Arts Inc.: An item with the same key has already been added.
+
+
+Industry: Networking & Communication Devices
+
+
+Industry: Personal Computers
+
+
+Industry: Printed Circuit Boards
+1: Probe Manufacturing Inc.: An item with the same key has already been added.
+
+
+Industry: Processing Systems & Products
+
+
+Industry: Scientific & Technical Instruments
+1: AccelPath, Inc.: An item with the same key has already been added.
+2: Universal Detection Technology: An item with the same key has already been added.
+
+
+Industry: Security Software & Services
+1: BIO-key International, Inc.: An item with the same key has already been added.
+2: Data Storage Corp.: An item with the same key has already been added.
+
+
+Industry: Semiconductor - Broad Line
+
+
+Industry: Semiconductor - Integrated Circuits
+1: China Sunergy Co. Ltd.: An item with the same key has already been added.
+2: Satcon Technology Corporation: An item with the same key has already been added.
+
+
+Industry: Semiconductor - Specialized
+1: Renewable Energy Trade Board C: An item with the same key has already been added.
+2: SunPower Corporation: An item with the same key has already been added.
+
+
+Industry: Semiconductor Equipment & Materials
+1: ChipMOS TECHNOLOGIES (Bermuda): An item with the same key has already been added.
+2: Solar Power, Inc.: An item with the same key has already been added.
+
+
+Industry: Semiconductor- Memory Chips
+
+
+Industry: Technical & System Software
+1: CoroWare, Inc.: An item with the same key has already been added.
+2: CYBRA Corporation: An item with the same key has already been added.
+3: ICSA (India) Ltd: An item with the same key has already been added.
+4: R S Software (India) Ltd: An item with the same key has already been added.
+5: Sage Group (The) PLC: An item with the same key has already been added.
+6: 1 Communique Laboratory Inc: An item with the same key has already been added.
+
+
+Industry: Telecom Services - Domestic
+
+
+Industry: Telecom Services - Foreign
+
+
+Industry: Wireless Communications
+1: China Unicom (Hong Kong) Ltd: An item with the same key has already been added.
+2: China Unicom (Hong Kong) Ltd: An item with the same key has already been added.
+3: Craig Wireless Systems Ltd: An item with the same key has already been added.
+4: Digerati Technologies, Inc.: An item with the same key has already been added.
+5: Digerati Technologies, Inc.: An item with the same key has already been added.
+6: ERF Wireless, Inc.: An item with the same key has already been added.
+7: NTELOS Holdings Corp.: An item with the same key has already been added.
+
+
+Industry: Information & Delivery Services
+1: Next 1 Interactive Inc.: An item with the same key has already been added.
+
+
+Industry: Information Technology Services
+1: Emtec, Inc.: An item with the same key has already been added.
+2: Quandrant4 Systems Corp.: An item with the same key has already been added.
+3: Redington (India) Ltd: An item with the same key has already been added.
+
+
+Industry: Diversified Utilities
+1: Pattern Energy Group Inc.: An item with the same key has already been added.
+
+
+Industry: Electric Utilities
+1: Beacon Power Corporation: An item with the same key has already been added.
+2: PowerVerde, Inc.: An item with the same key has already been added.
+
+
+Industry: Foreign Utilities
+
+
+Industry: Gas Utilities
+
+
+Industry: Water Utilities
+
+
