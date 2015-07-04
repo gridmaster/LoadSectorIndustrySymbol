@@ -9,6 +9,12 @@ namespace LoadSectorIndustrySymbol.Models
 {
     public class Sector : BaseData
     {
+        public string baseUri {get;set;}
+
+        public Sector()
+        {
+            baseUri = "http://biz.yahoo.com/p/";
+        }
 
         public Sectors GetSectors(string[] rows)
         {

@@ -8,6 +8,13 @@ namespace LoadSectorIndustrySymbol.Models
 {
     public class Industry : BaseData, IDisposable
     {
+        public string baseUri {get;set;}
+
+        public Industry()
+        {
+            baseUri = "http://biz.yahoo.com/p/";
+        }
+
         public string MoreInfoLink { get; set; }
 
         public string Sector { get; set; }

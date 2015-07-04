@@ -22,3 +22,17 @@ C:\Users\Jim\Documents\Visual Studio 2012\Projects\LoadSectorIndustrySymbol\Load
 C:\Users\Jim\Documents\Visual Studio 2012\Projects\LoadSectorIndustrySymbol\LoadSectorIndustrySymbol\bin\Debug\Newtonsoft.Json.dll
 C:\Users\Jim\Documents\Visual Studio 2012\Projects\LoadSectorIndustrySymbol\LoadSectorIndustrySymbol\bin\Debug\Newtonsoft.Json.xml
 C:\Users\Jim\Documents\Visual Studio 2012\Projects\LoadSectorIndustrySymbol\LoadSectorIndustrySymbol\obj\x86\Debug\LoadSectorIndustrySymbol.csprojResolveAssemblyReference.cache
+C:\Users\Jim\Documents\Visual Studio 2012\Projects\LoadSectorIndustrySymbol\LoadSectorIndustrySymbol\bin\Debug\EntityFramework.dll
+C:\Users\Jim\Documents\Visual Studio 2012\Projects\LoadSectorIndustrySymbol\LoadSectorIndustrySymbol\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jim\Documents\Visual Studio 2012\Projects\LoadSectorIndustrySymbol\LoadSectorIndustrySymbol\bin\Debug\EntityFramework.xml
+C:\Users\Jim\Documents\Visual Studio 2012\Projects\LoadSectorIndustrySymbol\LoadSectorIndustrySymbol\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jim\Documents\Visual Studio 2012\Projects\LoadSectorIndustrySymbol\LoadSectorIndustrySymbol\bin\Debug\Core.dll
+C:\Users\Jim\Documents\Visual Studio 2012\Projects\LoadSectorIndustrySymbol\LoadSectorIndustrySymbol\bin\Debug\DIContainer.dll
+C:\Users\Jim\Documents\Visual Studio 2012\Projects\LoadSectorIndustrySymbol\LoadSectorIndustrySymbol\bin\Debug\Logger.dll
+C:\Users\Jim\Documents\Visual Studio 2012\Projects\LoadSectorIndustrySymbol\LoadSectorIndustrySymbol\bin\Debug\Ninject.dll
+C:\Users\Jim\Documents\Visual Studio 2012\Projects\LoadSectorIndustrySymbol\LoadSectorIndustrySymbol\bin\Debug\log4net.dll
+C:\Users\Jim\Documents\Visual Studio 2012\Projects\LoadSectorIndustrySymbol\LoadSectorIndustrySymbol\bin\Debug\Core.pdb
+C:\Users\Jim\Documents\Visual Studio 2012\Projects\LoadSectorIndustrySymbol\LoadSectorIndustrySymbol\bin\Debug\DIContainer.pdb
+C:\Users\Jim\Documents\Visual Studio 2012\Projects\LoadSectorIndustrySymbol\LoadSectorIndustrySymbol\bin\Debug\Logger.pdb
+C:\Users\Jim\Documents\Visual Studio 2012\Projects\LoadSectorIndustrySymbol\LoadSectorIndustrySymbol\bin\Debug\Ninject.xml
+C:\Users\Jim\Documents\Visual Studio 2012\Projects\LoadSectorIndustrySymbol\LoadSectorIndustrySymbol\bin\Debug\log4net.xml

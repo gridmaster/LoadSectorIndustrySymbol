@@ -1,13 +1,18 @@
 ﻿using System;
+using System.Data;
+using System.Data.Entity;  
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.IO;
 using System.Net;
 using Newtonsoft.Json;
+using Ninject;
 using LoadSectorIndustrySymbol.BulkLoad;
+using LoadSectorIndustrySymbol.DIModule;
 using LoadSectorIndustrySymbol.Models;
 using LoadSectorIndustrySymbol.Web;
+using DIContainer;
 
 namespace LoadSectorIndustrySymbol
 {
@@ -23,28 +28,73 @@ namespace LoadSectorIndustrySymbol
         public static int maxAge = 30;
 
         public static DateTime startDate = new DateTime(2013, 11, 01);
-
-        private static string dividends = "http://real-chart.finance.yahoo.com/table.csv?s=WFC&a=05&b=1&c=1972&d=04&e=29&f=2015&g=v&ignore=.csv";
-
-        #region buySellMatrix
-        public static bool buyOnOpen;
-        public static bool buyOnTrigger;
-        public static bool buyOnClose;
-        public static bool sellOnOpen;
-        public static bool sellOnTrigger; 
-        public static bool sellOnClose;
-        #endregion buySellMatrix
-
         #endregion tunable resources
+
+        #region initialize DI container
+
+        private static void InitializeDiContainer()
+        {
+            NinjectSettings settings = new NinjectSettings
+            {
+                LoadExtensions = false
+            };
+
+            // change DesignTimeModule to run other implementation ProductionModule || DebugModule
+            IOCContainer.Instance.Initialize(settings, new DebugModule());
+        }
+
+        #endregion Initialize DI Container
 
         static void Main(string[] args)
         {
+            bool writeETFExchanges = false;
             bool writeOutputFiles = false;
             bool writeBulkFiles = false;
             bool loadExchanges = false;
+            bool writeDividends = false;
+            bool writeHistory = true;
+
+            string uri = WebPage.GetDividendUri("PG", DateTime.Now);
+            Database.SetInitializer<SymbolContext>(null);
 
             Console.WriteLine("Start: {0}", DateTime.Now);
 
+            if (writeHistory)
+            {
+                Console.WriteLine("Get History: {0}", DateTime.Now);
+
+                GetHistory();
+            }
+
+            if (writeDividends)
+            {
+                Console.WriteLine("Get Dividends: {0}", DateTime.Now);
+
+                Dividends dividends = GetDividends();
+
+                using (BulkLoadDividends bls = new BulkLoadDividends())
+                {
+                    var dt = bls.ConfigureDataTable();
+                    dt = bls.LoadDataTableWithDividends(dividends, dt);
+                    bls.BulkCopy<Dividends>(dt);
+                }
+            }
+
+            if (writeETFExchanges)
+            {
+                Console.WriteLine("Get ETFs: {0}", DateTime.Now);
+                ETFs etfBase = LoadETFExchanges();
+
+                using (BulkLoadETFBase bls = new BulkLoadETFBase())
+                {
+                    var dt = bls.ConfigureDataTable();
+                    dt = bls.LoadDataTableWithBasicETF(etfBase, dt);
+                    bls.BulkCopy<ETFs>(dt);
+                }
+                Console.WriteLine("Got ETFs: {0}", DateTime.Now);
+            }
+
+            #region os
             //========> Get Sectors
             Sectors sectors = GetSectors();
 
@@ -79,7 +129,7 @@ namespace LoadSectorIndustrySymbol
 
             if (loadExchanges)
             {
-                LoadExchanges(companies);
+                LoadCompanyExchanges(companies);
                 Console.WriteLine("Got Exchanges: {0}", DateTime.Now);
             }
 
@@ -94,6 +144,7 @@ namespace LoadSectorIndustrySymbol
                 }
             }
 
+            #region write output
             if (writeOutputFiles)
             {
                 Console.WriteLine("Write Output files: {0}", DateTime.Now);
@@ -122,16 +173,136 @@ namespace LoadSectorIndustrySymbol
                 }
                 Console.WriteLine("Wrote Output files: {0}", DateTime.Now);
             }
+            #endregion write output
+
+            #endregion os
 
             Console.WriteLine("End: {0}", DateTime.Now);
             Console.ReadKey();
         }
 
         #region private methods
-        private static Companies LoadExchanges(Companies companies)
+        private static void GetHistory()
         {
-            Companies InternalCompanies = new Companies();
+            Company company = GetMaxDate();
 
+            using (SymbolContext db = new SymbolContext())
+            {
+                Dailys dailys = new Dailys();
+
+                var companeez = from c in db.Companies
+                                where c.Date.Equals(company.Date)
+                                select c;
+
+                foreach (Company item in companeez)
+                {
+                    if (item.Exchange.IndexOf("NYS") == -1 && item.Exchange.IndexOf("Nasd") == -1) continue;
+
+                    string uriString = WebPage.GetHistoryUri(item.Symbol, DateTime.Now);
+
+                    string sPage = WebPage.Get(uriString);
+                    //http://real-chart.finance.yahoo.com/table.csv?s=PIH&a=1&b=1&c=1900&d=d&a=7&e=4&f=2015&g=v&ignore=.csv
+                    string[] dailyArray = sPage.Split('\n');
+                    for (int i = 1; i < dailyArray.Length; i++)
+                    {
+                        if (dailyArray[i].Length == 0) continue;
+                        string date = dailyArray[i].Split(',')[0];
+                        string open = dailyArray[i].Split(',')[1];
+                        string high = dailyArray[i].Split(',')[2];
+                        string low = dailyArray[i].Split(',')[3];
+                        string close = dailyArray[i].Split(',')[4];
+                        string volume = dailyArray[i].Split(',')[5];
+                        string adjClose = dailyArray[i].Split(',')[6];
+
+                        Daily daily = new Daily()
+                        {
+                            Symbol = item.Symbol,
+                            Date = Convert.ToDateTime(date),
+                            Open = Convert.ToDecimal(open),
+                            High = Convert.ToDecimal(high),
+                            Low = Convert.ToDecimal(low),
+                            Close = Convert.ToDecimal(close),
+                            Volume = Convert.ToInt32(volume),
+                            AdjClose = Convert.ToDecimal(adjClose),
+                        };
+                        dailys.Add(daily);
+                    }
+
+                    using (BulkLoadDailys bls = new BulkLoadDailys())
+                    {
+                        var dt = bls.ConfigureDataTable();
+                        dt = bls.LoadDataTableWithDailys(dailys, dt);
+                        bls.BulkCopy<Dailys>(dt);
+                    }
+                }
+            }
+        }
+
+        private static Dividends GetDividends()
+        {
+            var date = DateTime.Now;
+
+            Dividends dividends = new Dividends();
+            Company company = GetMaxDate();
+
+            using (SymbolContext db = new SymbolContext())
+            {
+
+                var companeez = from c in db.Companies
+                                where c.Date.Equals(company.Date)
+                                select c;
+                foreach (Company item in companeez)
+                {
+
+                    if (item.Exchange.IndexOf("NYS") == -1 && item.Exchange.IndexOf("Nasd") == -1) continue;
+
+                    string uriString = WebPage.GetDividendUri(item.Symbol, DateTime.Now);
+
+                    string sPage = WebPage.Get(uriString);
+
+                    string[] dailyArray = sPage.Split('\n');
+                    for (int i = 1; i < dailyArray.Length; i++)
+                    {
+                        if (dailyArray[i].Length == 0) continue;
+                        string divDate = dailyArray[i].Split(',')[0];
+                        string amount = dailyArray[i].Split(',')[1];
+                        Dividend div = new Dividend()
+                        {
+                            Symbol = item.Symbol,
+                            Amount = Convert.ToDecimal(amount),
+                            Date = Convert.ToDateTime(divDate)
+                        };
+                        dividends.Add(div);
+                    }
+                }
+            }
+            return dividends;
+        }
+
+        private static Company GetMaxDate()
+        {
+            int selected = 0;
+            using (var db = new SymbolContext())
+            {
+                Company company = new Company();
+                try
+                {
+                    selected = (from c in db.Companies
+                                select c.id).Max();
+                    company = db.Companies.Where(c => c.id == selected).SingleOrDefault();
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine("Program.cs - GetMaxDate Error:", ex.ToString());
+                }
+
+                return company;
+            }
+        }
+
+
+        private static Companies LoadCompanyExchanges(Companies companies)
+        {
             int Count = 0;
 
             for (int i = 0; i < companies.Count(); i++)
@@ -165,6 +336,59 @@ namespace LoadSectorIndustrySymbol
             Console.WriteLine("Found {0} Exchanges", Count);
 
             return companies;
+        }
+
+        private static ETFs LoadETFExchanges()
+        {
+            ETFs etfBase = new ETFs();
+            ETFContext db = new ETFContext();
+
+            var yesterday = DateTime.Now.AddDays(-1);
+            var data = db.EtfTradingVolumes.Where(e => e.Date > yesterday);
+
+            int Count = 0;
+
+            foreach (var item in data)
+            {
+                string sPage = WebPage.Get(string.Format(Models.EtfUris.uriSymbol, item.Ticker));
+                sPage = sPage.Replace("\r\n", " ").Replace("\r", " ").Replace("\n", " ");
+
+                if (sPage == "N/A") continue;
+
+                int index = sPage.IndexOf("class=\"title\"");
+                if (index == -1) continue;
+
+                string testIt = sPage.Substring(index, 200);
+
+                string[] stringSeparators = new string[] { "<td", "<h2>", "<span" };
+
+                var columns = testIt.Split(stringSeparators, StringSplitOptions.None);
+
+                if (columns[3].IndexOf("</span") == -1)
+                {
+                    continue;
+                }
+
+                stringSeparators[0] = "</span";
+                string exchange = columns[3].Substring(columns[3].IndexOf("</span")).Replace("</span>", "").Trim();
+
+                ETFBaseData etfbd = new ETFBaseData()
+                {
+                    Date = item.Date,
+                    EtfName = item.EtfName,
+                    ExchangeId = item.ExchangeId,
+                    Exchange = exchange,
+                    Ticker = item.Ticker
+                };
+
+                etfBase.Add(etfbd);
+
+                Count++;
+            }
+
+            Console.WriteLine("Found {0} Exchanges", Count);
+
+            return etfBase;
         }
 
         private static Companies GetCompanies(Industries industries)

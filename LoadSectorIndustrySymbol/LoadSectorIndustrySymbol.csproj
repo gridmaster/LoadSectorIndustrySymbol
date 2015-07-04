@@ -10,7 +10,7 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>LoadSectorIndustrySymbol</RootNamespace>
     <AssemblyName>LoadSectorIndustrySymbol</AssemblyName>
-    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <TargetFrameworkProfile>
     </TargetFrameworkProfile>
     <FileAlignment>512</FileAlignment>
@@ -24,6 +24,7 @@
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
     <PlatformTarget>x86</PlatformTarget>
@@ -33,12 +34,34 @@
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Core">
+      <HintPath>..\Core\bin\Debug\Core.dll</HintPath>
+    </Reference>
+    <Reference Include="DIContainer">
+      <HintPath>..\DIContainer\bin\Debug\DIContainer.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net40\EntityFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net40\EntityFramework.SqlServer.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Logger">
+      <HintPath>..\Logger\bin\Debug\Logger.dll</HintPath>
+    </Reference>
     <Reference Include="Newtonsoft.Json">
       <HintPath>..\packages\Newtonsoft.Json.6.0.8\lib\net40\Newtonsoft.Json.dll</HintPath>
     </Reference>
+    <Reference Include="Ninject">
+      <HintPath>..\packages\Ninject.3.2.2.0\lib\net45-full\Ninject.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.configuration" />
     <Reference Include="System.Core" />
     <Reference Include="System.Runtime.Serialization" />
@@ -53,14 +76,28 @@
   <ItemGroup>
     <Compile Include="BulkLoad\BaseBulkLoad.cs" />
     <Compile Include="BulkLoad\BulkLoadCompany.cs" />
+    <Compile Include="BulkLoad\BulkLoadDailys.cs" />
+    <Compile Include="BulkLoad\BulkLoadDividends.cs" />
+    <Compile Include="BulkLoad\BulkLoadETFBase.cs" />
     <Compile Include="BulkLoad\BulkLoadIndustry.cs" />
     <Compile Include="BulkLoad\BulkLoadSector.cs" />
+    <Compile Include="DIModule\DebugModule.cs" />
     <Compile Include="Models\BaseData.cs" />
     <Compile Include="Models\Companies.cs" />
     <Compile Include="Models\Company.cs" />
     <Compile Include="Models\Daily.cs" />
+    <Compile Include="Models\Dailys.cs" />
+    <Compile Include="Models\Dividend.cs" />
+    <Compile Include="Models\Dividends.cs" />
+    <Compile Include="Models\ETFBase.cs" />
+    <Compile Include="Models\ETFContext.cs" />
+    <Compile Include="Models\ETFBaseData.cs" />
+    <Compile Include="Models\ETFs.cs" />
+    <Compile Include="Models\EtfTradingVolumes.cs" />
+    <Compile Include="Models\ETFUris.cs" />
     <Compile Include="Models\Industries.cs" />
     <Compile Include="Models\Industry.cs" />
+    <Compile Include="Models\SymbolContext.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Models\Sector.cs" />
@@ -68,10 +105,14 @@
     <Compile Include="Web\WebPage.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config" />
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
     <None Include="packages.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

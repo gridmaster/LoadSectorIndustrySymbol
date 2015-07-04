@@ -9,12 +9,6 @@ namespace LoadSectorIndustrySymbol.Models
 {
     public class BaseData
     {
-        public string baseUri {get;set;}
-
-        public BaseData()
-        {
-            baseUri = "http://biz.yahoo.com/p/";
-        }
 
         [JsonProperty(PropertyName = "Id")]
         public int id { get; set; }

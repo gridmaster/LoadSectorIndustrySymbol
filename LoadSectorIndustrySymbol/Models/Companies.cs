@@ -7,5 +7,6 @@ namespace LoadSectorIndustrySymbol.Models
 {
     public class Companies : List<Company>
     {
+
     }
 }
